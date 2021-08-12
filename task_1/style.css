@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+}
+
+.task_russia {
+  display: flex;
+  outline: 2px solid rgb(160, 158, 158);
+  margin: 0 auto;
+}
+
+.task_france {
+  outline: 2px solid rgb(160, 158, 158);
+}
+
+.task_finland {
+  outline: 2px solid rgb(160, 158, 158);
+}
+
+.task_Switzerland {
+  outline: 2px solid rgb(160, 158, 158);
+  background-color: red;
+}
+
+.task_japan {
+  outline: 2px solid rgb(160, 158, 158);
+}
