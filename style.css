@@ -1,0 +1,26 @@
+h2,
+h1 {
+  text-align: center;
+}
+A:link {
+  text-decoration: none;
+}
+A:visited {
+  text-decoration: none;
+  color: rgb(71, 58, 34);
+}
+A:active {
+  text-decoration: none;
+}
+
+a {
+  cursor: pointer;
+  color: black;
+  padding: 0px 30px;
+  margin: 0 50px;
+  border: 1px solid red;
+}
+
+.task {
+  display: flex;
+}

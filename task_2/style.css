@@ -1,3 +1,13 @@
 #svgMinus {
   display: none;
+  margin: 0 auto;
+}
+body {
+  text-align: center;
+}
+
+button {
+  width: 150px;
+  border-radius: 0 10px;
+  background-color: azure;
 }
